@@ -42,6 +42,7 @@ section h2.section-heading {
   font-size: 40px;
   margin-top: 0;
   margin-bottom: 15px;
+  padding: 25px;
 }
 
 section h3.section-subheading {
@@ -606,6 +607,7 @@ section#contact {
 
 section#contact .section-heading {
   color: #fff;
+  padding: 25px;
 }
 
 section#contact .form-group {
