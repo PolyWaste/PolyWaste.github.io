@@ -60,6 +60,11 @@ section h3.section-subheading {
   }
 }
 
+
+img {
+    image-orientation: from-image;
+}
+
 .btn {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
