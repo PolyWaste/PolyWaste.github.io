@@ -41,8 +41,8 @@ section {
 section h2.section-heading {
   font-size: 40px;
   margin-top: 0;
-  margin-bottom: 15px;
-  padding: 25px;
+  /*margin-bottom: 15px;*/
+  padding: 15px;
 }
 
 section h3.section-subheading {
@@ -63,6 +63,10 @@ section h3.section-subheading {
 
 img {
     image-orientation: from-image;
+}
+
+.subtext {
+  margin-bottom: 30px;
 }
 
 .btn {
@@ -532,7 +536,6 @@ header.masthead .intro-text .intro-subheading {
   }
   .timeline > li {
     min-height: 100px;
-    margin-bottom: 100px;
   }
   .timeline > li .timeline-panel {
     float: left;
